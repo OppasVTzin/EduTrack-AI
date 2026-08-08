@@ -1,1 +1,9 @@
-venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.streamlit/secrets.toml
+.env
+login.log
+

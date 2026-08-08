@@ -1,0 +1,2 @@
+"""Paginas renderizadas pelo entrypoint."""
+
